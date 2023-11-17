@@ -29,6 +29,15 @@ public class Rockit_New {
 			
 			return false;
 		}
+		private void name() {
+			System.out.println("skrgbrbvjsbvgbsobh");
+			
+		}
+		
+		
+		
+		
+	
 		
 		
 		
