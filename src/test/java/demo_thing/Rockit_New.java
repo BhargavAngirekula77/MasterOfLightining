@@ -18,6 +18,22 @@ public class Rockit_New {
 			
 			return false;
 		}
+		
+
+		public boolean retryg() {
+			while (count<retryAnalyzer) {
+				count++;
+				return true;
+				
+			}
+			
+			return false;
+		}
+		
+		
+		
+		
+		
 
 	
 
